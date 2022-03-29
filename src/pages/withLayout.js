@@ -10,10 +10,10 @@ function Withlayout(Component) {
             <span>Logo</span>
             <div>
             <nav>
-            <span className='nav-link'><Link to="/">Home</Link></span>
-            <span>About</span>
-            <span>Blog</span>
-
+            <span className='nav-link'><Link to="/"> Home </Link></span>
+            <span className='nav-link'><Link to="/"> About </Link></span>
+            <span className='nav-link'><Link to="/"> Blog </Link></span>
+    
             </nav>
             </div>
             </header>

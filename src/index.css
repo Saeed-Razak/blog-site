@@ -10,7 +10,7 @@
   margin: auto;
 }
 .appbar{
-  background-color: crimson;
+  background-color: blueviolet;
   display: flex;
   flex-direction: row;
   justify-content: space-between;
@@ -23,8 +23,13 @@
   color: whitesmoke;
 
 }
+.nav-link >a{
+  margin: 10px;
+  text-decoration: none;
+  color: white;
+}
 .appbar > a:hover{
-  text-decoration: underline;
+  text-decoration: none;
 
 }
 footer{
