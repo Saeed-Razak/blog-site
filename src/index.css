@@ -1,3 +1,5 @@
+@import url(reset.css);
+
 .layout{
   height: 100%;
   display: flex;
@@ -10,7 +12,7 @@
   margin: auto;
 }
 .appbar{
-  background-color: blueviolet;
+  background-color: crimson;
   display: flex;
   flex-direction: row;
   justify-content: space-between;
@@ -33,7 +35,7 @@
 
 }
 footer{
-  background-color: crimson;
+  background-color: gray;
   padding: 10px;
   text-align: center;
   color: whitesmoke;

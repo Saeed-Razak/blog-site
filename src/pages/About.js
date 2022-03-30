@@ -1,10 +1,10 @@
 import React from 'react'
 import withLayout from './withLayout'
 
-function Home() {
+function About() {
   return (
     <div>
-    <h1>Welcome to my HomePage</h1>
+    <h1>ABOUT ME</h1>
     <div>
     <p>The Home Depothttps://www.homedepot.com
     Shop online for all your home improvement needs: appliances, bathroom decorating ideas, kitchen remodeling, patio furniture, power tools, bbq grills, ...
@@ -33,4 +33,4 @@ You can’t put a price on the value of having a fully functioning bathroom at a
   )
 }
 
-export default  withLayout(Home)
+export default  withLayout(About)
