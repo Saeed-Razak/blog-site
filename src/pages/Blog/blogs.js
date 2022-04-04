@@ -31,9 +31,9 @@ function BlogList(){
             <div>
             <h3>{post.title}</h3>
             <p>{post.extract}</p>
-            <botton className="btn-contain"
-            onClick={()=>handleClick}
-            style={{alignSelf: "end"}}>Read More</botton>
+            <button className="btn-contain"
+            onClick={()=>handleClick(post.id)}
+            style={{alignSelf: "end"}}>Read More</button>
             </div>
             </div>
             

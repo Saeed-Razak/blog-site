@@ -1,21 +1,37 @@
 [
-    {
-        "id": 1,
-        "image": "1.png",
-        "slug": "post-number-one",
-        "title":"So what causes it?",
-        "extract":"Plumbing & gasfitting & Gas-Fitting is a well established business.",
-        "body":"APlus Plumbing & Gas provide a one-stop shop for all your plumbing emergency, installation & maintenance needs."
-        
-    },
-    
-    {
-        "id": 1,
-        "image": "1.png",
-        "slug": "post-number-one",
-        "title":"So what causes it?",
-        "extract":"Plumbing & gasfitting & Gas-Fitting is a well established business.",
-        "body":"APlus Plumbing & Gas provide a one-stop shop for all your plumbing emergency, installation & maintenance needs."
-        
-    }
+  {
+    "id": 1,
+    "image": "1.png",
+    "slug": "post-number-one",
+    "title": "What it's all about?",
+    "extract": "Plumbing & gasfitting & Gas-Fitting is a well established business. Offering Quality Residential Plumbing Services. Installations & Upgrades From Experts! Emergency Services Available! Founded in 1972. Warranties available. BBB member. Discounts available. Locally owned & operated. Services: Drain Cleaning Services, Water Heater Services, Remodeling Services.",
+    "body": "APlus Plumbing & Gas provide a one-stop shop for all your plumbing emergency, installation & maintenance needs."
+  },
+
+  {
+    "id": 2,
+    "image": "shirt.jpg",
+    "slug": "post-number-one",
+    "title": "So what causes it?",
+    "extract": "Plumbing & gasfitting & Gas-Fitting is a well established business.",
+    "body": "APlus Plumbing & Gas provide a one-stop shop for all your plumbing emergency, installation & maintenance needs."
+  },
+
+  {
+    "id": 3,
+    "image": "shirt 2.png",
+    "slug": "post-number-one",
+    "title": "So what causes it?",
+    "extract": "Plumbing & gasfitting & Gas-Fitting is a well established business.",
+    "body": "APlus Plumbing & Gas provide a one-stop shop for all your plumbing emergency, installation & maintenance needs."
+  },
+
+  {
+    "id": 4,
+    "image": "10.png",
+    "slug": "post-number-one",
+    "title": "So what causes it?",
+    "extract": "Plumbing & gasfitting & Gas-Fitting is a well established business.",
+    "body": "APlus Plumbing & Gas provide a one-stop shop for all your plumbing emergency, installation & maintenance needs."
+  }
 ]

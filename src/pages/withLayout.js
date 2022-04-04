@@ -34,6 +34,8 @@ useEffect(() => {
         <span className={`nav-link ${activeNav === "home" ? "active":""}`}><Link to="/"> Home </Link></span>
         <span className={`nav-link ${activeNav === "about" ? "active": ""}`}><Link to="/about"> About </Link></span>
         <span className={`nav-link ${activeNav === "about" ? "active": ""}`}><Link to="/blog"> Blog </Link></span>
+        <span className={`nav-link ${activeNav === "about" ? "active": ""}`}><Link to="/contact"> Contact </Link></span>
+        <span className={`nav-link ${activeNav === "about" ? "active": ""}`}><Link to="/service"> Service </Link></span>
         </nav>
         
         
